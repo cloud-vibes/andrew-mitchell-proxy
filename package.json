@@ -1,5 +1,5 @@
 {
-  "name": "comment_section_proxy_kevin",
+  "name": "andrew-mitchell-proxy",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ZoundLoud/comment_section_proxy_kevin.git"
+    "url": "git+https://github.com/cloud-vibes/andrew-mitchell-proxy.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Andrew Mitchell",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ZoundLoud/comment_section_proxy_kevin/issues"
+    "url": "https://github.com/cloud-vibes/andrew-mitchell-proxy/issues"
   },
-  "homepage": "https://github.com/ZoundLoud/comment_section_proxy_kevin#readme",
+  "homepage": "https://github.com/cloud-vibes/andrew-mitchell-proxy#readme",
   "dependencies": {
     "express": "^4.16.4",
     "morgan": "^1.9.1",
